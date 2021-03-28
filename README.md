@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @faizansep5
+- 👋 Hi, I’m Faizan ali
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Web development
 - 💞️ I’m looking to collaborate on some open source projects
