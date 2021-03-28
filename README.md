@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Web development
 - 💞️ I’m looking to collaborate on some open source projects
-- 📫 How to reach me: Just search faizansep5 on Linkedin or send me a email at faizansep5@gmail.com 
+- 📫 How to reach me: Just search faizansep5 on Linkedin or send me an email at faizansep5@gmail.com 
 
 <!---
 faizansep5/faizansep5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
